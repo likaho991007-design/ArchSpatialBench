@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.key
+*.pem
+*.token
+
+# Local data and outputs
+data/matched_sets/
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.png
+data/**/*.webp
+results/
+report/
+analysis/
+groundtruth/annotations/
+
+# Python / editor
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "ArchSpatialBench: A Multimodal Benchmark for Spatial Reasoning on Architectural Drawings"
+message: "If you use this benchmark, please cite the future benchmark release."
+type: dataset
+authors:
+  - given-names: "KAHO"
+    family-names: "LI"
+    affiliation: "Tsinghua University"
+    # Chinese name: 李嘉皓
+repository-code: "https://github.com/TODO/ArchSpatialBench"
+abstract: >-
+  ArchSpatialBench is a benchmark under development for evaluating whether
+  multimodal large language models can reason over architectural drawings,
+  including floor plans, sections, and elevations. The benchmark is planned
+  around a redistributable Core Data split and a URL-only Wild Data split for
+  in-the-wild evaluation.
+keywords:
+  - multimodal large language models
+  - benchmark
+  - architectural drawings
+  - spatial reasoning
+  - cross-view reasoning
+license: "TBD"
+version: "0.0.1-public-skeleton"
