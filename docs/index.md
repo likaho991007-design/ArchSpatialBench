@@ -36,4 +36,4 @@ Email: li-jh22@mails.tsinghua.edu.cn
 
 - [Benchmark Design](benchmark-design.md)
 - [Datasheet Skeleton](project/DATASHEET.md)
-- [Data Availability](../data/README.md)
+- [Data Availability](data.md)
